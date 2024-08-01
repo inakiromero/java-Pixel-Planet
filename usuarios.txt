@@ -1,0 +1,5 @@
+1,iniaki,romero,tatijavier_romero@hotmail.com,iniaki123,superSecreta123,PayPal(iniaki,tatijavier_romero@hotmail.com,Tati0705);PayPal(iniaki,tatijavier_romero@hotmail.com,Tati0705);,JUEGO_1719429008646;
+2,ulises,fierro,ulisfierro@hotmail.com,uliFierro,123,,
+3,juan,unanue,juanUnuanue@hotmail.com,juan123,bover123,,
+4,pedro,varela,peterVarelaks@hotmail.com,peter123,sanIgnacio123,,
+5,pablo,martinez,pabloMart@hotmail.com,pabloM,cag,,
